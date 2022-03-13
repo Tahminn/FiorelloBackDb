@@ -1,6 +1,6 @@
 using System;
 
-namespace FiorelloBackDb.Models
+namespace FiorelloBackDb.Models.Home
 {
     public class ErrorViewModel
     {
